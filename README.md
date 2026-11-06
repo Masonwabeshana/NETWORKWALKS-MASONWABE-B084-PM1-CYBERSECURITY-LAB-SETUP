@@ -41,6 +41,13 @@ The main objectives of this project are to:
 - Document the complete setup process.
 
 ---
+# 🪜 Lab Setup Procedure
+
+## Step 1. Install 7-Zip
+
+7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
+
+**Tool:** 7-Zip
 
 ## 🛡️ Purpose of the Lab
 
