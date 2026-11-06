@@ -1,4 +1,51 @@
 # NETWORKWALKS-MASONWABE-B084-PM1-CYBERSECURITY-LAB-SETUP
-Cybersecurity lab setup
-I have completed the Networkwalks cybersecurity lab setup for project 1, ready for ethical hacking.
-Through installing virtualbox and kali linux, further configuring its network
+# 🔐 Cybersecurity Lab Environment Setup
+
+**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+</p>
+
+---
+
+## 📌 Project Overview
+
+This project is about building a virtual cybersecurity lab for penetration testing using virtualbox and kali linux.
+This lab provides a safe and controlled space for cybersecurity practice, without risking damage to real systems. 
+This lab covers the following aspects; network/port scanning, vulnerability assessment, packet analysis, web security testing, exploitation and network reconnaissance.
+
+## 🎯 Objectives
+
+The main objectives of this project are to:
+
+- Install and configure VirtualBox.
+- Install/import Kali Linux as a virtual machine.
+- Create a private NAT Network for the cybersecurity lab.
+- Configure network connectivity for Kali Linux.
+- Assign a consistent IP address to the Kali VM.
+- Verify network connectivity and DNS resolution.
+- Take a clean VM snapshot for recovery.
+- Document the complete setup process.
+
+---
+
+## 🛡️ Purpose of the Lab
+
+The lab provides an isolated, controlled environment for cybersecurity learning with authorized security testing, turning theory into real hands-on skill.
+
+
+⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
+
