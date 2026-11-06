@@ -1,7 +1,7 @@
 # NETWORKWALKS-MASONWABE-B084-PM1-CYBERSECURITY-LAB-SETUP
 # 🔐 Cybersecurity Lab Environment Setup
 
-**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+**A virtual lab for penetration testing and ethical hacking practice**
 </div>
 
 <p align="center">
@@ -87,3 +87,7 @@ IP Address: 10.0.0.2
 Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 10.0.0.1 
+
+## Step 6. Create a Clean VM Snapshot
+
+After completing the initial configuration, a VirtualBox snapshot was created
